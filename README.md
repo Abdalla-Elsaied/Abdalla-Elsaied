@@ -4,9 +4,9 @@
 
 **Backend Developer · ASP.NET Core · SQL Server · Clean Architecture**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdallah-elsaied/))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/Abdalla-Elsaied))
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)]([https://codeforces.com/your-profile](https://codeforces.com/profile/Abdalla-Elsaied))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:eng.abdallaelsaiedali@gmail.com)
 
 </div>
@@ -50,8 +50,9 @@ Backend developer from **Tanta, Egypt** — building secure, scalable web applic
 
 **Integrations**
 
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![Stripe]([https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white](https://stripe.com/))
+![Cloudinary]([https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white](https://cloudinary.com/))
+![Paymob]([https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white](https://paymob.com/))
 
 **Concepts**
 
@@ -61,7 +62,7 @@ Backend developer from **Tanta, Egypt** — building secure, scalable web applic
 
 ## 🚀 Featured Projects
 
-### 🗺️ [JourneyMate](https://github.com/your-username/journeymate) — Smart Travel Platform (Graduation Project)
+### 🗺️ [JourneyMate]([https://github.com/your-username/journeymate](https://github.com/Abdalla-Elsaied/JournyMate)) — Smart Travel Platform (Graduation Project)
 > ASP.NET Core · EF Core · Clean Architecture · JWT · Paymob · Cloudinary
 
 Backend for a smart travel platform with AI-powered itinerary recommendations.
@@ -72,7 +73,7 @@ Backend for a smart travel platform with AI-powered itinerary recommendations.
 
 ---
 
-### 🛒 [E-Commerce API](https://github.com/your-username/ecommerce-api) — Scalable Store Backend
+### 🛒 [E-Commerce API]([https://github.com/your-username/ecommerce-api](https://github.com/Abdalla-Elsaied/E-Commerce_NET_API)) — Scalable Store Backend
 > ASP.NET Core · Clean Architecture · Stripe · Redis · JWT
 
 Production-ready e-commerce backend with performance-first design.
@@ -82,7 +83,7 @@ Production-ready e-commerce backend with performance-first design.
 
 ---
 
-### 🏨 [WhiteLagoon](https://github.com/your-username/whitelagoon) — MVC Booking App
+### 🏨 [WhiteLagoon]([https://github.com/your-username/whitelagoon](https://github.com/Abdalla-Elsaied/WhiteLagoon)) — MVC Booking App
 > ASP.NET Core · EF Core · Repository Pattern · Bootstrap
 
 Full-featured booking system with layered architecture.
@@ -91,7 +92,7 @@ Full-featured booking system with layered architecture.
 
 ---
 
-### 📚 [Library Management System](https://github.com/your-username/library-system) — Full Stack MVC
+### 📚 [Library Management System]([https://github.com/your-username/library-system](https://github.com/Abdalla-Elsaied/Library-Management-System)) — Full Stack MVC
 > ASP.NET MVC · ASP.NET Identity · EF Core · Bootstrap
 
 Feature-complete library system with role-based access.
@@ -100,7 +101,7 @@ Feature-complete library system with role-based access.
 
 ---
 
-## 💼 Experience
+## 💼 Internships 
 
 | Period | Role | Organization |
 |---|---|---|

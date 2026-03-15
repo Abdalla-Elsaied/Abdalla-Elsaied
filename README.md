@@ -4,9 +4,9 @@
 
 **Backend Developer · ASP.NET Core · SQL Server · Clean Architecture**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdallah-elsaied/))
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/Abdalla-Elsaied))
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)]([https://codeforces.com/your-profile](https://codeforces.com/profile/Abdalla-Elsaied))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/your-profile)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:eng.abdallaelsaiedali@gmail.com)
 
 </div>
@@ -30,8 +30,17 @@ Backend developer from **Tanta, Egypt** — building secure, scalable web applic
 **Languages**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 **Backend & Web**
 
@@ -50,9 +59,8 @@ Backend developer from **Tanta, Egypt** — building secure, scalable web applic
 
 **Integrations**
 
-![Stripe]([https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white](https://stripe.com/))
-![Cloudinary]([https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white](https://cloudinary.com/))
-![Paymob]([https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white](https://paymob.com/))
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 
 **Concepts**
 
@@ -62,7 +70,7 @@ Backend developer from **Tanta, Egypt** — building secure, scalable web applic
 
 ## 🚀 Featured Projects
 
-### 🗺️ [JourneyMate]([https://github.com/your-username/journeymate](https://github.com/Abdalla-Elsaied/JournyMate)) — Smart Travel Platform (Graduation Project)
+### 🗺️ [JourneyMate](https://github.com/your-username/journeymate) — Smart Travel Platform (Graduation Project)
 > ASP.NET Core · EF Core · Clean Architecture · JWT · Paymob · Cloudinary
 
 Backend for a smart travel platform with AI-powered itinerary recommendations.
@@ -73,7 +81,7 @@ Backend for a smart travel platform with AI-powered itinerary recommendations.
 
 ---
 
-### 🛒 [E-Commerce API]([https://github.com/your-username/ecommerce-api](https://github.com/Abdalla-Elsaied/E-Commerce_NET_API)) — Scalable Store Backend
+### 🛒 [E-Commerce API](https://github.com/your-username/ecommerce-api) — Scalable Store Backend
 > ASP.NET Core · Clean Architecture · Stripe · Redis · JWT
 
 Production-ready e-commerce backend with performance-first design.
@@ -83,7 +91,7 @@ Production-ready e-commerce backend with performance-first design.
 
 ---
 
-### 🏨 [WhiteLagoon]([https://github.com/your-username/whitelagoon](https://github.com/Abdalla-Elsaied/WhiteLagoon)) — MVC Booking App
+### 🏨 [WhiteLagoon](https://github.com/your-username/whitelagoon) — MVC Booking App
 > ASP.NET Core · EF Core · Repository Pattern · Bootstrap
 
 Full-featured booking system with layered architecture.
@@ -92,7 +100,7 @@ Full-featured booking system with layered architecture.
 
 ---
 
-### 📚 [Library Management System]([https://github.com/your-username/library-system](https://github.com/Abdalla-Elsaied/Library-Management-System)) — Full Stack MVC
+### 📚 [Library Management System](https://github.com/your-username/library-system) — Full Stack MVC
 > ASP.NET MVC · ASP.NET Identity · EF Core · Bootstrap
 
 Feature-complete library system with role-based access.
@@ -101,7 +109,7 @@ Feature-complete library system with role-based access.
 
 ---
 
-## 💼 Internships 
+## 💼 Experience
 
 | Period | Role | Organization |
 |---|---|---|
@@ -124,9 +132,14 @@ Feature-complete library system with role-based access.
 
 <div align="center">
 
-![Abdalla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=239120&icon_color=239120&text_color=333333" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=ffffff&title_color=239120&text_color=333333&langs_count=8" height="165" alt="Top Languages"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default&hide_border=true)
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=ffffff&ring=239120&fire=239120&currStreakLabel=239120&sideLabels=333333&dates=666666" alt="GitHub Streak"/>
 
 </div>
 

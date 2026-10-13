@@ -89,15 +89,6 @@ I build RESTful APIs and maintainable web applications using Clean Architecture,
 
 ## 🚀 Featured Projects
 
-### 🧭 JourneyMate · Graduation Project (Backend)
-**ASP.NET Core · SQL Server · Clean Architecture**
-
-A smart travel platform that connects travelers with travel companies to promote domestic tourism in Egypt.
-
-- Developed backend services that let travel companies manage trips and bookings
-- Built RESTful APIs and admin dashboards to manage itineraries, companies, and travel packages
-- 🌐 [Live Demo](https://lnkd.in/d8Phme_T) · 📘 [API Docs](https://lnkd.in/d4ua3xBN)
-
 ### 🩺 PhysioAssist · ITI Graduation Project
 **Angular · ASP.NET Core · SQL Server**
 
@@ -105,6 +96,15 @@ An AI-assisted healthcare platform that streamlines clinic management and clinic
 
 - Built modular backend services using Clean Architecture, Entity Framework Core, and role-based access control
 - Integrated AI workflows for audio transcription, structured clinical documentation, patient summaries, and semantic search across session content
+
+### 🧭 JourneyMate · Graduation Project (Backend)
+**ASP.NET Core · SQL Server · Clean Architecture**
+
+A smart travel platform that connects travelers with travel companies to promote domestic tourism in Egypt.
+
+- Developed backend services that let travel companies manage trips and bookings
+- Built RESTful APIs and admin dashboards to manage itineraries, companies, and travel packages
+
 
 ### 🛒 E-Commerce API
 **ASP.NET Core**
@@ -156,16 +156,7 @@ Arabic (Native) · English (Intermediate)
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Elsayed&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Elsayed&layout=compact)
-
-</div>
-
----
 
 <div align="center">
 

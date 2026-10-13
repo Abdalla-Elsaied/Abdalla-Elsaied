@@ -1,27 +1,26 @@
 <div align="center">
 
-# Hey, I'm Abdalla Elsaied 👋
+# 👋 Hi, I'm Abdullah Elsayed
 
-**Backend Developer · ASP.NET Core · SQL Server · Clean Architecture**
+### Backend-focused Software Engineer · C# · ASP.NET Core · SQL Server
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-elsaied/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Abdalla-Elsaied)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Abdalla-Elsaied)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:eng.abdallaelsaiedali@gmail.com)
+I build RESTful APIs and maintainable web applications using Clean Architecture, Entity Framework Core, and solid engineering practices.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Abdullah-elsayed)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.abdallaelsaiedali@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-Backend developer from **Tanta, Egypt** — building secure, scalable web applications with **ASP.NET Core** and **Entity Framework**. Currently training at **ITI** on a BI & CRM track, and passionate about clean architecture, real-world APIs, and making things that actually work.
-
-- 🎓 B.Eng in Computer Engineering — **Tanta University** (Jul 2025)
-- 🏢 Currently at **Information Technology Institute (ITI)** — BI & CRM Track
-- 🏆 **43rd place** in ECPC Qualifications Day 4 out of 230 teams (2023)
-- 🌱 Exploring enterprise .NET architecture, SQL Server, and data-driven systems
-- 📍 Tanta, Gharbia, Egypt
+- 🎓 Computer Engineering graduate, **Tanta University** (2025)
+- 📚 Currently completing the **ITI Professional Diploma in Professional Development & BI-Infused CRM** (Oct 2025 – Aug 2026)
+- 🏗️ Focused on **ASP.NET Core**, **SQL Server**, **Clean Architecture**, and RESTful API design
+- 🤖 Experienced in building AI-assisted applications and integrating AI services into practical software workflows
+- 📍 Tanta, Egypt
 
 ---
 
@@ -29,103 +28,131 @@ Backend developer from **Tanta, Egypt** — building secure, scalable web applic
 
 **Languages**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Backend**
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **Frontend**
 
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-**Backend & Web**
+**Database**
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Database & Tools**
+**Cloud, DevOps and Tools**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**Integrations**
+**CRM and Low-Code**
 
-[![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)](https://stripe.com/)
-[![Paymob](https://img.shields.io/badge/Paymob-00C389?style=flat&logoColor=white)](https://paymob.com/)
-[![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=flat-square&logo=dynamics365&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=flat-square&logo=powerapps&logoColor=white)
 
-**Concepts**
+### Engineering Practices
 
-`Clean Architecture` · `SOLID Principles` · `Repository & Unit of Work` · `Dependency Injection` · `OOP` · `Agile`
+| Area | Skills |
+|---|---|
+| **Architecture** | Clean Architecture, RESTful APIs, SOLID, Design Patterns, Dependency Injection, Repository Pattern, Unit of Work, OOP, UML |
+| **Security** | JWT Authentication, ASP.NET Identity, Secure Coding Principles |
+| **Testing** | Unit Testing, Test-Driven Development (TDD) |
+| **Process** | Agile (Scrum) |
+| **AI and Data** | Generative AI, Prompt Engineering, AI Coding Assistants, Data Mining Fundamentals |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🗺️ [JourneyMate](https://github.com/Abdalla-Elsaied/JournyMate) — Smart Travel Platform (Graduation Project)
-> ASP.NET Core · EF Core · Clean Architecture · JWT · Paymob · Cloudinary
+### 🧭 JourneyMate · Graduation Project (Backend)
+**ASP.NET Core · SQL Server · Clean Architecture**
 
-Backend for a smart travel platform with AI-powered itinerary recommendations.
-- Built RESTful APIs for trip management and AI-powered travel recommendations
-- Implemented JWT + role-based access control (admins, companies, travelers)
-- Integrated **Paymob** for secure payments and **Cloudinary** for image handling
-- Built two MVC dashboards: one for platform admins, one for travel companies
+A smart travel platform that connects travelers with travel companies to promote domestic tourism in Egypt.
 
----
+- Developed backend services that let travel companies manage trips and bookings
+- Built RESTful APIs and admin dashboards to manage itineraries, companies, and travel packages
+- 🌐 [Live Demo](https://lnkd.in/d8Phme_T) · 📘 [API Docs](https://lnkd.in/d4ua3xBN)
 
-### 🛒 [E-Commerce API](https://github.com/Abdalla-Elsaied/E-Commerce_NET_API) — Scalable Store Backend
-> ASP.NET Core · Clean Architecture · Stripe · Redis · JWT
+### 🩺 PhysioAssist · ITI Graduation Project
+**Angular · ASP.NET Core · SQL Server**
 
-Production-ready e-commerce backend with performance-first design.
-- Followed **Clean Architecture** with SOLID principles and design patterns
-- JWT authentication for user management, **Stripe** for payments
-- **Redis caching** for products and cart — boosted response performance
+An AI-assisted healthcare platform that streamlines clinic management and clinical workflows.
 
----
+- Built modular backend services using Clean Architecture, Entity Framework Core, and role-based access control
+- Integrated AI workflows for audio transcription, structured clinical documentation, patient summaries, and semantic search across session content
 
-### 🏨 [WhiteLagoon](https://github.com/Abdalla-Elsaied/WhiteLagoon) — MVC Booking App
-> ASP.NET Core · EF Core · Repository Pattern · Bootstrap
+### 🛒 E-Commerce API
+**ASP.NET Core**
 
-Full-featured booking system with layered architecture.
-- Repository + Unit of Work patterns with EF Core and LINQ
-- Responsive Razor views with Bootstrap, validation, and clean routing
+A backend API for an online store.
 
----
+- Supports product, cart, and order management
+- Implements user authentication and payment processing for online transactions
 
-### 📚 [Library Management System](https://github.com/Abdalla-Elsaied/Library-Management-System) — Full Stack MVC
-> ASP.NET MVC · ASP.NET Identity · EF Core · Bootstrap
+### 📚 Library Management System · DEPI Graduation Project
+**ASP.NET**
 
-Feature-complete library system with role-based access.
-- ASP.NET Identity for authentication and authorization
-- Responsive UI with Razor Views and JavaScript
+A platform for handling book inventory and user borrowing operations.
+
+- Implements authentication and role-based access control for librarians and users
+
+> 📌 Pin your favorite repositories above this section to link directly to the source code.
 
 ---
 
-## 💼 Internships
+## 💼 Experience and Training
 
 | Period | Role | Organization |
 |---|---|---|
-| Oct 2025 – Present | Professional Development Trainee — BI & CRM | **ITI (Information Technology Institute)** |
-| Apr 2024 – Oct 2024 | .NET Web Developer Trainee | **Digital Egypt Pioneers Initiative (DEPI)** |
-| Aug 2023 – Oct 2023 | AI Intern | **Zewail City** |
-| Jul 2022 | Entrepreneurship Trainee | **InnovEgypt – ITIDA** |
+| Oct 2025 – Aug 2026 | Professional Diploma: Professional Development & BI-Infused CRM | Information Technology Institute (ITI) |
+| Apr 2024 – Oct 2024 | Trainee .NET Web Developer | Digital Egypt Pioneers Initiative (DEPI) |
+| Aug 2023 – Oct 2023 | Artificial Intelligence Intern | Zewail City |
+| Jul 2022 | Entrepreneurship Trainee | InnovEgypt – ITIDA |
 
 ---
 
-## 🏅 Achievements & Volunteering
+## 🎓 Education
 
-- 🥇 **43rd / 230 teams** — ECPC Qualifications Day 4 (2023)
-- 📡 **Public Relations Specialist** — IEEE Tanta Student Branch (2022–2025)
-- 🌐 **Public Relations Specialist** — Google Developer Student Club (2023–2024)
+**B.Sc. in Computer Engineering**, Tanta University (Sep 2020 – Jul 2025), GPA 3.4/4.0
+
+---
+
+## 🏆 Achievements and Community
+
+- 🥇 **43rd place** out of 230 teams, ECPC Qualifications Day 4 (2023)
+- 🤝 Public Relations Specialist, **IEEE Tanta Student Branch** (Oct 2022 – Jul 2025)
+- 🤝 Public Relations Specialist, **Google Developer Student Club**, Tanta University (Sep 2023 – Jul 2024)
+
+---
+
+## 🌐 Languages
+
+Arabic (Native) · English (Intermediate)
 
 ---
 
@@ -133,14 +160,8 @@ Feature-complete library system with role-based access.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdalla-Elsaied&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=239120&icon_color=239120&text_color=333333" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Elsaied&layout=compact&hide_border=true&bg_color=ffffff&title_color=239120&text_color=333333&langs_count=8" height="165" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Abdalla-Elsaied&hide_border=true&background=ffffff&ring=239120&fire=239120&currStreakLabel=239120&sideLabels=333333&dates=666666" alt="GitHub Streak"/>
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Elsayed&show_icons=true&theme=default)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Elsayed&layout=compact)
 
 </div>
 
@@ -148,10 +169,6 @@ Feature-complete library system with role-based access.
 
 <div align="center">
 
-*"Building things that work, learning things that matter."*
-
-**Open to backend roles, freelance projects, and interesting collaborations.**
-
-[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:eng.abdallaelsaiedali@gmail.com)
+### 📫 Let's connect. I'm always happy to talk about backend engineering, APIs, and AI-assisted software.
 
 </div>
